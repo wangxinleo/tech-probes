@@ -26,13 +26,13 @@
 1. 克隆仓库到本地：
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/wangxinleo/tech-probes.git
    ```
 
 2. 进入项目目录：
 
    ```bash
-   cd <project-directory>
+   cd tech-probes
    ```
 
 3. 安装依赖：
