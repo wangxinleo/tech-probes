@@ -15,13 +15,21 @@
 
 - Vue 3
 - Vite
-- Faker.js
-- File-saver
-- PizZip
+- @codemirror/lang-json
+- @codemirror/lang-vue
+- @codemirror/theme-one-dark
+- @faker-js/faker
+- Axios
 - Docxtemplater
-- ECharts
 - Docxtemplater-image-module-free
+- ECharts
+- File-saver
 - Html2canvas
+- Lodash
+- PizZip
+- vue-codemirror
+- vue-router
+- vue3-sfc-loader
 
 ## 📥 安装
 
